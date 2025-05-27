@@ -1,0 +1,49 @@
+body {
+    background-color: bisque;
+    margin: auto;
+}
+
+h1 {
+    margin-top: 0px;
+    background-color: rgb(5, 88, 86);
+    color: white;
+    text-align: center;
+    height: 50px;
+    align-content: center;
+}
+
+.b {
+    background-color: aliceblue;
+    margin: 30px;
+    padding: 10px;
+    align-content: center;
+}
+
+.m {
+    background-color: aliceblue;
+    margin: 30px;
+    padding: 20px;
+    align-content: center;
+}
+
+.l {
+    background-color: aliceblue;
+    margin: 30px;
+    padding: 20px;
+    align-content: center;
+}
+
+footer {
+    margin-top: 0px;
+    background-color: rgb(5, 88, 86);
+    color: white;
+    text-align: center;
+    height: 50px;
+    align-content: center;
+}
+
+title {
+    color: aqua;
+    font-size: 20px;
+    background-color: rgb(5, 88, 86);
+}
